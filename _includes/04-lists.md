@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+######Favourite things to do : 
+
+1. Play Basketball 
+2. Eat 
+3. Go biking 
